@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(199, 250, 112);
+}
+#heading {
+    height: 55px;
+    width: 600px;
+    background: rgb(136, 61, 136);
+    color: #f7cf9e;
+    text-align: center;
+    margin: auto;
+    margin-top: 65px;
+    border-top-left-radius: 85px;
+    border-top-right-radius: 85px;
+    border-bottom-right-radius: 65px;
+    border-bottom-left-radius: 65px;
+    border: 2px solid;
+    border-color: purple greenyellow orangered;
+}
+form{
+    background: rgb(117, 8, 108);
+    color: rgb(17, 17, 17);
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    
+    
+}
+.sbody{
+    background: lightgreen;
+    
+}
+s.div{
+    text-align: center;
+    margin-top: 10%;
+}
